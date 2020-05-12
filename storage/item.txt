@@ -1,0 +1,6 @@
+Pizza,250.0,2
+Sandwich,80.0,13
+Shwarma,100.0,30
+Lasgne,300.0,4
+Pav Bhaji,110.0,48
+Maggi,20.0,27
